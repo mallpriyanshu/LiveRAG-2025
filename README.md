@@ -48,8 +48,8 @@ liverag/
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/liverag.git](https://github.com/mallpriyanshu/LiveRAG-2025.git)
-cd liverag
+git clone https://github.com/mallpriyanshu/LiveRAG-2025.git
+cd LiveRAG-2025
 ```
 
 2. Create and activate a virtual environment:
@@ -132,7 +132,7 @@ This section provides detailed instructions for reproducing the results of our R
 ### AWS Bedrock Setup
 
 1. **Endpoint Configuration**
-   - The pipeline requires a specific AWS Bedrock endpoint for the Falcon-3-10B-Instruct model
+   - The pipeline requires a specific AWS Bedrock endpoint for the Falcon3-10B-Instruct model
    - Update the endpoint ARN in `liverag/pipeline/rag_pipeline.py`:
    ```python
    # AWS Bedrock configuration
