@@ -226,7 +226,7 @@ The output file (`test-set_output.jsonl`) will contain one JSON object per line 
 
 For any issues with reproduction or questions about the implementation, please contact:
 - Email: mall.priyanshu7@gmail.com
-- GitHub Issues: https://github.com/mall.priyanshu/LiveRAG-2025/issues
+- GitHub Issues: https://github.com/mallpriyanshu/LiveRAG-2025/issues
 
 ## Configuration
 
