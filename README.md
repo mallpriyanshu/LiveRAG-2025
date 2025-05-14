@@ -48,7 +48,7 @@ liverag/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/liverag.git
+git clone [https://github.com/yourusername/liverag.git](https://github.com/mallpriyanshu/LiveRAG-2025.git)
 cd liverag
 ```
 
