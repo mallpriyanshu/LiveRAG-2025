@@ -14,7 +14,7 @@ A hybrid RAG (Retrieval-Augmented Generation) pipeline implementation for LiveRA
 ## Project Structure
 
 ```
-liverag/
+LiveRAG-2025/
 ├── README.md
 ├── requirements.txt
 ├── setup.py
